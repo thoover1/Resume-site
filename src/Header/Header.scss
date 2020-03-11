@@ -1,0 +1,131 @@
+header {
+  height: 10vh;
+  width: 100%;
+  P {
+      display: none;
+  }
+  nav {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    margin-top: 18px;
+    a {
+      height: 100%;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-decoration: none;
+      img {
+          padding-bottom: 10px;
+          height: 50px;
+          width: 50px;
+        }
+        a {
+            height: auto;
+            width: auto;
+            border-radius: 5px;
+      }
+    }
+  }
+}
+
+@media (max-height: 770px) {
+    header {
+        height: 15vh;
+    }
+}
+@media (max-height: 520px) {
+    header {
+        height: 18vh;
+    }
+}
+@media (max-height: 430px) {
+    header {
+        height: 22vh;
+    }
+}
+@media (max-height: 350px) {
+    header {
+        height: 30vh;
+    }
+}
+@media (max-height: 250px) {
+    header {
+        height: 35vh;
+    }
+}
+
+@media (max-width: 620px) {
+    header {
+        height: 25vh;
+        margin-bottom: 10px;
+        nav {
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            align-items: stretch;
+            align-content: space-around;
+            margin-top: 30px;
+            a {
+                height: auto;
+                width: auto;
+                padding: 6px 13px;
+            }
+        }
+    }
+}
+
+@media (max-width: 470px) {
+    header {
+        nav {
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            align-items: stretch;
+            align-content: space-around;
+            margin-top: 30px;
+            a {
+                height: auto;
+                width: auto;
+                padding: 8px 4px;
+                img {
+                    padding-bottom: 5px;
+                }
+            }
+        }
+    }
+}
+@media (max-width: 364px) {
+    header {
+        height: 8vh;
+        margin-bottom: 50px;
+        p {
+            width: 100vw;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            margin-bottom: -5px;
+            text-decoration: underline;
+            font-weight: 600;
+        }
+        nav {
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            align-items: stretch;
+            align-content: space-around;
+            a {
+                height: auto;
+                width: auto;
+                padding: 8px 4px;
+                img {
+                    padding-bottom: 5px;
+                }
+                a {
+                    display: none;
+                }
+            }
+        }
+    }
+}

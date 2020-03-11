@@ -1,0 +1,126 @@
+﻿Thomas Hoover  Full Stack Web Developer — Birmingham, AL
+thooverdev@gmail.com
+Cell: 210-867-6362
+LinkedIn - https://www.linkedin.com/in/thomas-hoover-781540195/
+Github - https://github.com/thoover1
+	EDUCATION
+________________
+
+
+DevMountain, Phoenix, AZ — Full Stack Web Development
+Graduated December 2019
+* Built full-stack personal and group web projects using Javascript, NodeJS, React, and Postgres.
+* Over 1000 hours of intensive, instructor-lead, project-based training and self studying primarily in React, NodeJS, Express, Postgres, MongoDB, HTML, CSS, SASS, and Javascript.
+* Version Control of all projects and mini-projects using Git (Github/Gitlab).
+
+
+Texas Woman’s University, Denton, TX — Masters of Science, Exercise and Sports Nutrition
+Graduated August 2017
+University of Texas at Arlington, Arlington, TX — Bachelors of Science, Exercise Science
+Graduated August 2014
+
+
+
+
+SKILLS
+________________
+
+
+Experience working with the following:
+* Common programs: Microsoft Office
+* Front-end: React, React-Redux, Javascript, HTML(HTML5), CSS(CSS3), SASS, LESS, ChartJS, D3
+* Back-end: Node(NodeJS/Node.js), Express(ExpressJS/Express.js), RESTful API, Axios, Nginx
+* Databases: SQL, Postgres SQL(PostgreSQL), MongoDB, Firebase
+* Additional resources: SAS, VS Code, Git, Github, Gitlab, Jira, Trello, Jest, Enzyme, Jasmine, Postman, AWS, Nodemailer, Twilio, Slack, DigitalOcean, Stripe, Google Cloud Platform, npm, yarn
+
+
+
+
+PROJECTS
+________________
+
+
+burgerhoover.netlify.com || Github link
+Summary: 
+* In two weeks, created a burger-building web application for ordering a customizable burger.
+
+
+Responsibilities: 
+* Developed a burger builder  web application using React.js/Redux, NodeJS, and Firebase using VS Code as my IDE and Github as my version control platform.
+* Used HTML, CSS3, SASS, and Javascript to build an interactive and mobile-responsive user interface (UI).
+* Created Lifecycle Methods, Hooks, Props, and Events to create an efficient, function-based web app.
+* Intertwined action creators with reducers using Redux that also stored user session/tokenId’s.
+* Used React Axios to fetch web API requests from Firebase to update state in the store of Redux.
+* Utilized Postman for testing API endpoints that communicated with Firebase.
+* Incorporated authorization and validation for login and ordering capabilities.
+* Built reusable React functional components.
+* Wrote and performed testing using React Jest and Enzyme.
+* Coded Git repository that syncs with Netlify to continuously redeploy app via auto-updates.
+
+
+voidkanban.com || Github link
+Summary: 
+* In two weeks, created a bug/ticket tracking (kanban board) web app that is group-focused and incorporates various group-communication methods.
+
+
+Responsibilities: 
+* Developed a web application using React.js/Redux, Node.js, Express, and Postgres using VS Code as our IDE and Github as our version control platform.
+* Used Slack, Jira, Git commands, and real-time interaction  to communicate with group effectively and efficiently.
+* Used HTML, CSS3, SASS, Javascript, and React-Beautiful-DnD  to build an interactive user interface (UI).
+* Created media queries for dynamic  mobile-responsiveness.
+* Created Lifecycle Methods, Hooks, State, Props, and Events to create a dynamic web app.
+* Intertwined action creators with reducers using Redux.
+* Created a hashed-password system for increased security using bcrypt.
+* Reformat database SQL queries/scripts to work with dynamic drag-n-drop features after UI rendering.
+* Used React Axios to fetch web API requests from Postgres to update state in the store of Redux and state of components.
+* Utilized Postman for testing API endpoints that communicated with Postgres.
+* Wrote and performed testing using React Jest and Enzyme.
+* Incorporated authorization and validation for login and group access capabilities.
+* Implemented Sockets (sockets.io) for real-time chatting between group members.
+* Applied middleware via Express to reduce query hacking.
+* Built reusable React functional components.
+* Created a server-side droplet using DigitalOcean, NGINX, and PM2.
+* Linked domain name purchased with AWS’s Route 53 with DigitalOcean droplet.
+
+
+dunkingonuts.com || Github link
+Summary: 
+* In less than two weeks, created e-commerce capabilities for ordering Dunkin’ products via desktop from scratch.
+
+
+Responsibilities: 
+* Developed a web application using React.js/Redux, Node.js, Express, and Postgres using VS Code as my IDE and Github as my version control platform.
+* Used HTML, CSS3, SASS, and Javascript to build an interactive user interface (UI).
+* Created media queries for dynamic  mobile-responsiveness.
+* Created Lifecycle Methods, State, Props, and Events to create a dynamic web app.
+* Intertwined action creators with reducers using Redux.
+* Used React Axios to fetch web API requests from Postgres to update state in the store of Redux and state of components.
+* Utilized Postman for testing API endpoints that communicated with Postgres.
+* Created a hashed-password system for increased security using bcrypt.
+* Incorporated authorization and validation for login and group access capabilities.
+* Applied middleware via Express to reduce query hacking.
+* Used Trello for task/bug tracking management and organization.
+* Used Nodemailer and Twilio for email and text alerts after subscriber registration.
+* Utilized Google Cloud Platform to create a real-time geolocation Google Map.
+* Paired E-commerce capabilities of web app with Stripe to provide the full “checkout” user experience.
+* Created a server-side droplet using DigitalOcean, NGINX, and PM2.
+* Linked domain name purchased with GoDaddy with DigitalOcean droplet.
+
+
+thomashooverdev.netlify.com || Github link
+Summary: 
+* Portfolio Website
+
+
+EXPERIENCE
+________________
+
+
+University of Alabama Birmingham, Birmingham, AL — Independent Researcher/Scholar
+August 2017 - August  2019
+* Authored numerous  grants/manuscripts for multifarious departments within the university
+* Consistently worked in diverse groups to accomplish research studies from beginning to end 
+Texas Woman’s University, Denton, TX — Instructor/Lab Instructor/Overseer
+August 2014 - August 2017
+* Instructor/Lab instructor of differing courses within both the Nutrition and Exercise Physiology departments
+* Principal overseer of the LEAD-UP program, an intervention based approach to elderly adapted exercise
