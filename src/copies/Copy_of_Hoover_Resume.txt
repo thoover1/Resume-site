@@ -31,7 +31,7 @@ Experience working with the following:
 * Front-end: React, React-Redux, Javascript, HTML(HTML5), CSS(CSS3), SASS, LESS, ChartJS, D3
 * Back-end: Node(NodeJS/Node.js), Express(ExpressJS/Express.js), RESTful API, Axios, Nginx
 * Databases: SQL, Postgres SQL(PostgreSQL), MongoDB, Firebase
-* Additional resources: SAS, VS Code, Git, Github, Gitlab, Jira, Trello, Jest, Enzyme, Jasmine, Postman, AWS, Nodemailer, Twilio, Slack, DigitalOcean, Stripe, Google Cloud Platform, npm, yarn
+* Additional resources: SAS, VS Code, Git, Github, Gitlab, Jira, Trello, Jest, Enzyme, Jasmine, Postman, AWS, Nodemailer, Twilio, Slack, DigitalOcean, Stripe, Google Cloud Platform, npm, yarn, Polymer, Web Components
 
 
 

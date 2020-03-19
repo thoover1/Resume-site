@@ -4,11 +4,11 @@ import PDF from "../icons/pdf-icon.png";
 import RTF from "../icons/rtf-icon.png";
 import TXT from "../icons/txt-icon.png";
 import DOCX from "../icons/Word-icon.png";
-import pdfResume from "../copies/Copy_of_Hoover_Resume (1).pdf";
+import pdfResume from "../copies/Copy_of_Hoover_Resume.pdf";
 import odtResume from "../copies/Copy_of_Hoover_Resume.odt";
 import rtfResume from "../copies/Copy_of_Hoover_Resume.rtf";
 import txtResume from "../copies/Copy_of_Hoover_Resume.txt";
-import docxResume from "../copies/Copy_of_Hoover_Resume (1).docx";
+import docxResume from "../copies/Copy_of_Hoover_Resume.docx";
 import "./Header.scss";
 
 function Header() {
